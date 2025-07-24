@@ -25,7 +25,7 @@ Para executar o projeto, você precisa ter o **Python 3** instalado em sua máqu
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   git clone https://github.com/eduardo-ml/pomodoro-timer-python.git
    ```
 
 2. **Navegue até a pasta do projeto:**
