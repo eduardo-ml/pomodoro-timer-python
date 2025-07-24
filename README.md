@@ -30,7 +30,7 @@ Para executar o projeto, você precisa ter o **Python 3** instalado em sua máqu
 
 2. **Navegue até a pasta do projeto:**
    ```bash
-   cd seu-repositorio
+   cd pomodoro-timer-python
    ```
 
 3. **Execute o script:**
